@@ -1,0 +1,151 @@
+h1{
+    color: lightyellow;
+}
+#main {
+    background-color: blue;
+    width: 950px;
+    height: 920px;
+    margin-left:auto;
+    margin-right:auto;
+    text-align: center;
+
+}
+table{ 
+    width: 904px;
+    text-align: center;
+    margin-left:auto;
+    margin-right:auto;
+}
+a{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+
+}
+.dv{
+    font-size: 20px;
+    font-weight: bold;
+    color: blue;
+}
+td{
+    width: 800px;
+    height: 70px;
+    border: solid;
+    border-color: lightyellow;
+    background-color: lightyellow;
+}
+h2 {
+    text-align: center;
+    margin-left: -20px;
+    color: blue;
+}
+button{
+    width: 35px;
+    height: 35px;
+    margin-right: 15px;
+    background-color:transparent;
+    border-color: blue;
+}
+.inputBox {
+    margin-left: 15px;
+    margin-right: 2px;
+    height: 30px;
+    width: 355px;
+    border-radius: 30px;
+    text-align: center;
+    border-color: blue;
+}
+li {
+    list-style:none;
+    height: 50px;
+    text-align: center;
+    margin-bottom: 5px;
+    border-bottom: 1px solid blue;
+    color: blue;
+}
+.listBox {
+    margin: 10px;
+
+}
+
+#box{
+    margin-left:auto;
+    margin-right:auto;
+    width : 900px;
+    height : 750px;
+}
+
+.todoBox{
+    width:446px;
+    height:750px;
+    margin-top: 2px;
+    float:left;
+    background-color: lightyellow;
+}
+
+.addButton {
+    width: 10px;
+    height: 10px;
+}
+.toolBox{
+    height: 42px;
+    width: 444px;
+    margin-top: -2px;
+    margin-right: 5px;
+    float: right;
+    border-width: 2px;
+    text-align: center;
+    background-color: lightyellow;
+}
+.Picker {
+    height: 35px;
+    width :35px;
+    margin: 5px;
+}
+
+.penRange {
+    margin: 5px;
+}
+
+.back {
+    background-image: url(./back.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border: none;
+    cursor: pointer;
+    height: 30px;
+    padding-left: 30px;
+    margin: 5px;
+}
+
+.bin {
+    background-image: url(./bin.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border: none;
+    cursor: pointer;
+    height: 30px;
+    padding-left: 30px;
+    margin: 5px;
+}
+
+.download {
+    background-image: url(./download.png);
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: 0px 0px;
+    border: none;
+    cursor: pointer;
+    height: 30px;
+    padding-left: 30px;
+    margin: 5px;
+}
+
+.canvasBox {
+    border: solid;
+    border-color: blue;
+    width: 444px;
+    height: 702px;
+}
